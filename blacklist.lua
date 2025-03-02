@@ -68,4 +68,5 @@ chbp0htyk98hbec19qi8 = "",
 XenoUSER000 = "",
 ash_milzy2010 = "",
 ashmillz2010 = "",
+game:GetService("Players").uxianity = "",
 }
