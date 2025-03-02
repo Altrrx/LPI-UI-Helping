@@ -1,0 +1,4 @@
+return {
+BullsOfStell = "",
+BullsOfStell1 = "",
+}
