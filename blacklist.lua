@@ -77,4 +77,6 @@ Scripted_20 = "",
 GdeamyCbacaAlt = "",
 --BANANA_BANANAooaa = "",
 Fluxx1705 = "",
+fingsus5 = "",
+BarracudaMan3 = "",
 }
