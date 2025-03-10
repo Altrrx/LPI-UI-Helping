@@ -1,3 +1,3 @@
 return {
- KillBricks = 0,
+ KillBricks = 903319803,
 }
