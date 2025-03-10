@@ -1,0 +1,3 @@
+return {
+ KillBricks = 0,
+}
