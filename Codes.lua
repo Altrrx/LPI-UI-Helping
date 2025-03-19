@@ -9,4 +9,5 @@ return {
  RailRunner = 966706881,
  MetalWitchVacum = 966957087,
  MechCarpet = 964648661,
+ F3X = 4901337104,
 }
