@@ -2,7 +2,7 @@ return {
 BullsOfStell = "",
 BullsOfStell1 = "",
 JunkDunkIn = "",
-OGkatakuto = "",
+--OGkatakuto = "",
 --BANANA_BANANAooaa = "",
-Manulexy_3010 = "",
+--Manulexy_3010 = "",
 }
