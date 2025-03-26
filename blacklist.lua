@@ -111,5 +111,8 @@ hellomyfriend838380 = "",
 dubdubdubdub40 = "",
 hocker9997 = "",
 asdwadasdas2 = "",
-SocialCreditTester = "",
+SocialCreditTester = {
+[1] = true,
+[2] = true,
+},
 }
