@@ -1,4 +1,5 @@
 return {
+ InsertTool = 560422478,
  KillBricks = 903319803,
  LPIWrench = 1547909595,
  IronSevenlessScroll = 964429275,
@@ -10,4 +11,19 @@ return {
  MetalWitchVacum = 966957087,
  MechCarpet = 964648661,
  F3X = 4901337104,
+ LPIPaintGun = 689876122,
+ FreePlatformBow = 1319218306,
+ SpinWithItEquipped = 1565221455, -- just do what it says lol!
+ Checkpoint = 3110755182,
+ CheckerPattern = 906768224,
+ ArmorGiver = 720541990,
+ UglyUnremovableFog = 564913728,
+ RobloxHome = 560417137,
+ ViewBobbing = 923894226,
+ TimeAPI = 1025849174,
+ MCNametags = 561238759,
+ DoubleJump = 560421884,
+ R15 = 2272946427,
+ R11 = 1992619355,
+ WSPad = 1554225939,
 }
